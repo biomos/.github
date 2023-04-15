@@ -50,6 +50,8 @@ The GROMOS _software_ is to be distinguished from the GROMOS _force fields_ for 
 
 </table>
 
+The GROMOS _force-field_ files are available from [www.gromos.net](https://www.gromos.net).
+
 ### GROMOS documentation
 
 Extensive GROMOS software manuals accompanied the major releases of 1987 [10] and 1996 [11]. The functionalities of GROMOS87, GROMOS96 and GROMOS05 are summarized in the scientific literature [1, 12, 13].
